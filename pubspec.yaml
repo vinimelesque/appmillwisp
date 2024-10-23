@@ -1,0 +1,36 @@
+name: app_login
+description: "A new Flutter project."
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.0.0
+  firebase_core: ^2.10.0
+  firebase_auth: ^4.16.0
+  firebase_database: ^10.0.6
+  google_sign_in: ^6.2.1
+  google_fonts: ^6.2.1
+  cupertino_icons: ^1.0.6
+  fl_chart: ^0.40.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  assets:
+    - lib/assets/imgs/Logo.png
+    - lib/assets/imgs/Google.png
+    - lib/assets/imgs/Xiao.png
+    - lib/assets/imgs/Homeimage.png
+    - lib/assets/imgs/Julia.png
+
+  uses-material-design: true
