@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "404526956871",
+    "firebase_url": "https://prototipomillwisp-default-rtdb.firebaseio.com",
+    "project_id": "prototipomillwisp",
+    "storage_bucket": "prototipomillwisp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404526956871:android:9295bb16b94db7777f4c62",
+        "android_client_info": {
+          "package_name": "com.example.app_login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAriRJuPmeAN9PpOoeBAWaSM3bpNza9x8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
